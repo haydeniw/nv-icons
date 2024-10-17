@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Actor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #2290c7;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="23.9999" cy="24" r="24"/>
+  <polygon class="cls-1" points="30.9999 24.96402 16.9999 24.96402 12.9999 39.96402 34.9999 39.96402 30.9999 24.96402"/>
+  <circle class="cls-1" cx="23.9999" cy="14.96402" r="7"/>
+</svg>

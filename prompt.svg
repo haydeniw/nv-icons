@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Data" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #d96421;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="3.00108" y="3" width="42" height="42"/>
+  <path class="cls-1" d="M10.50244,12.50095v19h3.78003l1.45996,5.47021,5.47003-5.47021h16.28998V12.50095H10.50244ZM16.30243,26.90085h-2.12l5.90002-5.8999-5.09003-5.1001h2.12l5.10004,5.1001-5.91003,5.8999ZM34.75244,25.75095h-11.5v-1.5h11.5v1.5Z"/>
+</svg>
